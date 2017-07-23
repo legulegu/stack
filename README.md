@@ -1,3 +1,2 @@
-# A techstacks ghost blog for legulegu.com
-
+# A techstacks blog
 A techstacks ghost blog host on heroku for legulegu.com.
